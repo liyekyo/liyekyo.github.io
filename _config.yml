@@ -104,3 +104,5 @@ service-worker: true
 #         href: "https://legacy.gitbook.com/@rainbomsea"
 #     }
 # ]
+
+theme: jekyll-theme-leap-day
